@@ -41,7 +41,7 @@ git rebase main -i
 
 This should take you to a screen that looks something like this:
 
-TODO: add image
+![rebasing](./images/rebase.png)
 
 Most of these commands are pretty specific. For the most part, you won't need to use most of them very often. Today, we're going to try out `pick`, `reword`, `edit`, `squash`, and `drop`.
 
