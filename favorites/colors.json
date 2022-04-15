@@ -1,8 +1,12 @@
 {
-    "favoriteColors": [
-        {
-            "name": "Zoë",
-            "color": "robin egg blue"
-        }
-    ]
+  "favoriteColors": [
+    {
+      "name": "Zoë",
+      "color": "robin egg blue"
+    },
+    {
+      "name": "Zoe test user",
+      "color": "pink"
+    }
+  ]
 }

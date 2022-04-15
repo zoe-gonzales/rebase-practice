@@ -1,8 +1,12 @@
 {
-    "favoriteSeasons": [
-        {
-            "name": "Zoë",
-            "season": "Spring"
-        }
-    ]
+  "favoriteSeasons": [
+    {
+      "name": "Zoë",
+      "season": "Spring"
+    },
+    {
+      "name": "Zoe test user",
+      "season": "Summer"
+    }
+  ]
 }
