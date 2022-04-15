@@ -1,8 +1,12 @@
 {
-    "favoriteSnacks": [
-        {
-            "name": "Zoë",
-            "snack": "chips & salsa"
-        }
-    ]
+  "favoriteSnacks": [
+    {
+      "name": "Zoë",
+      "snack": "chips & salsa"
+    },
+    {
+      "name": "Zoe test user",
+      "snack": "cookies"
+    }
+  ]
 }
