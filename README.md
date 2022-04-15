@@ -4,6 +4,8 @@
 
 In this exercise, we're going to be practicing with the `git rebase --interactive` command (abbreviated to `git rebase -i`).
 
+Before beginning, clone this repo locally and create a new branch with `git checkout -b <your branch name>`
+
 ## Part 1: Create git history
 
 Right now, you have no git history for this repo! In part one, we'll add the commits you need in order to rebase in part two.
@@ -23,7 +25,7 @@ git commit -m <your commit message>
 
 5. At this point, you should have 7 individual commits on your branch. You can verify this by running `git log` to see the commits, and `git status` to see how far your local branch is ahead of Github.
 
-6. Push your changes up to your branch.
+6. Push your changes upstream to Github with `git push -u origin <your branch name>`. `-u` is short for `--set-upstream-to` which sets the remote branch.
 
 ## Part 2: Interactive Rebase
 
