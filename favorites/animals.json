@@ -1,8 +1,12 @@
 {
-    "favoriteAnimals": [
-        {
-            "name": "Zoë",
-            "animal": "cat"
-        }
-    ]
+  "favoriteAnimals": [
+    {
+      "name": "Zoë",
+      "animal": "cat"
+    },
+    {
+      "name": "Zoe test user",
+      "animal": "spider"
+    }
+  ]
 }
