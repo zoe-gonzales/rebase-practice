@@ -1,8 +1,12 @@
 {
-    "favoriteIceCreamFlavors": [
-        {
-            "name": "Zoë",
-            "flavor": "coffee"
-        }
-    ]
+  "favoriteIceCreamFlavors": [
+    {
+      "name": "Zoë",
+      "flavor": "coffee"
+    },
+    {
+      "name": "Kristine",
+      "flavor": "cookies & cream"
+    }
+  ]
 }

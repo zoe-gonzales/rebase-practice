@@ -1,8 +1,12 @@
 {
-    "favoriteMusic": [
-        {
-            "name": "Zoë",
-            "genre": "Pop"
-        }
-    ]
+  "favoriteMusic": [
+    {
+      "name": "Zoë",
+      "genre": "Pop"
+    },
+    {
+      "name": "Kristine",
+      "genre": "R&B/Soul"
+    }
+  ]
 }
