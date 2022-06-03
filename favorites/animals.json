@@ -4,9 +4,9 @@
             "name": "Zoë",
             "animal": "cat"
         },
-	{
-		"name": "Taylor",
-		"animal": "penguin"
-}
+	    {
+            "name": "Taylor",
+            "animal": "penguin"
+        }
     ]
 }
