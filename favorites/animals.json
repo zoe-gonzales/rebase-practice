@@ -3,6 +3,10 @@
         {
             "name": "Zoë",
             "animal": "cat"
+        },
+        {
+            "name": "Gita",
+            "animal": "elephant"
         }
     ]
 }
