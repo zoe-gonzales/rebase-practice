@@ -1,8 +1,12 @@
 {
-    "favoriteGames": [
-        {
-            "name": "Zoë",
-            "game": "Solitaire"
-        }
-    ]
+  "favoriteGames": [
+    {
+      "name": "Zoë",
+      "game": "Solitaire"
+    },
+    {
+      "name": "Kristine",
+      "game": "Castles of Burgundy"
+    }
+  ]
 }
