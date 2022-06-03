@@ -3,6 +3,10 @@
         {
             "name": "Zoë",
             "genre": "Pop"
+        },
+        {
+            "name": "Sage",
+            "genre": "Pop"
         }
     ]
 }
