@@ -3,6 +3,10 @@
         {
             "name": "Zoë",
             "genre": "Pop"
+        },
+        {
+            "name": "Jon Fermin",
+            "color": "rap"
         }
     ]
 }

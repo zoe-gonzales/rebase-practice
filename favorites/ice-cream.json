@@ -3,6 +3,10 @@
         {
             "name": "Zoë",
             "flavor": "coffee"
+        },
+        {
+            "name": "Jon Fermin",
+            "color": "Earl Grey"
         }
     ]
 }
