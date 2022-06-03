@@ -4,5 +4,9 @@
             "name": "Zoë",
             "animal": "cat"
         }
+        {
+            "name": "Sage",
+            "animal": "kitten"
+        }
     ]
 }
